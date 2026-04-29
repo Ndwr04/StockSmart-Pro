@@ -47,9 +47,13 @@ EmailMot de passeRôleadmin@stocksmart.propasswordAdmin — Carrefour Paris-Est
 Structure du projet
 StockSmart/
 ├── config.php              # Configuration centrale, helpers
+
 ├── index.php               # Landing page
+
 ├── dashboard.php           # Tableau de bord
+
 ├── pages/
+
 │   ├── register.php        # Inscription / création d'enseigne
 │   ├── login.php           # Connexion
 │   ├── produits.php        # Gestion des produits
