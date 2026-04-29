@@ -1,4 +1,4 @@
-# 🚀 StockSmart Pro 
+# StockSmart Pro 
 Application web de gestion de stock multi-enseignes, développée en PHP, MySQL, HTML, CSS et JavaScript.
 
 ## Aperçu
